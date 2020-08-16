@@ -1,1 +1,2 @@
-
+www.infzm.com##IMG[src*='nas.infzm.com']
+www.infzm.com##DIV[class='infzm-seven-days-popup van-popup']
