@@ -2,3 +2,4 @@ www.infzm.com##IMG[src*='nas.infzm.com']
 www.infzm.com##DIV[class='infzm-seven-days-popup van-popup']
 7mmtv.tv##DIV#exo_slider_
 7mmtv.tv##DIV[class='cpm_banner']
+www.infzm.com##IMG[src*='nas.infzm.com']
